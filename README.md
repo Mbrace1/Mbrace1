@@ -1,6 +1,6 @@
 # About-Me
-I am a recent graduate from IT Career Switch. During the course I built two projects: Gazetter and a Company Directory. 
-You can view these on my website [michaelbracey.co.uk](https://michaelbracey.co.uk/).
+I am currently working as a Junior Digital Developer with the marketing team at Hays Recruitment.
+My role involves building custom sites for clients using Html, CSS (SASS framework) and JS (Jquery).
 
 
 ## Programming Experience
@@ -19,16 +19,14 @@ I have built projects with:
 
 I also have experience with:
 
-* C#
-* Java
 * Python
-* ReactJS
+* SASS
+* Azure Devops
+* React JS
 
 ## I am currently working on:
 
-* A personal C# project with Razor Pages
-
-I am also currently looking for a permanent role as a junior developer.
+* A course on React JS.
 
 ## Contact Me!
 
