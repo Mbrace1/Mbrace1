@@ -1,7 +1,5 @@
 # About-Me
-I am currently working as a Junior Digital Developer with the marketing team at Hays Recruitment.
-My role involves building custom sites for clients using Html, CSS (SASS framework) and JS (Jquery).
-
+I am a front-end game developer apprentice at [Playtech](https://www.playtech.com/). In the past I have built microsites using HTML5, CSS/SCSS and JavaScript/Jquery at [Hays](https://www.hays.co.uk/).
 
 ## Programming Experience
 I have built projects with:
@@ -9,24 +7,17 @@ I have built projects with:
 * JavaScript
 * JQuery
 * Bootstrap
+* CSS/SCSS
+* HTML5
 * PHP
-* SQL
+* SQL 
 * GIT
 * Github
 * REST APIs
-* CSS
-* HTML
-
-I also have experience with:
-
-* Python
-* SASS
-* Azure Devops
-* React JS
 
 ## I am currently working on:
 
-* A course on React JS.
+* A Unity course with C#.
 
 ## Contact Me!
 
