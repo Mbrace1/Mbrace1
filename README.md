@@ -13,7 +13,7 @@ I have built projects with:
 
 ## I am currently working on:
 
-* A Unity and C#.
+* Games with Unity and C#.
 
 ## Contact Me!
 
