@@ -1,23 +1,19 @@
-# About-Me
-I am a front-end game developer apprentice at [Playtech](https://www.playtech.com/). In the past I have built microsites using HTML5, CSS/SCSS and JavaScript/Jquery at [Hays](https://www.hays.co.uk/).
+# About Me
+I am a front-end game developer apprentice at [Playtech](https://www.playtech.com/). 
 
-## Programming Experience
+In the past I have also built microsites using HTML5, CSS/SCSS and JavaScript/Jquery at [Hays](https://www.hays.co.uk/).
+
+## Tech Stack
 I have built projects with:
 
-* JavaScript
-* JQuery
-* Bootstrap
+* JavaScript/TypeScript
 * CSS/SCSS
 * HTML5
-* PHP
-* SQL 
-* GIT
-* Github
-* REST APIs
+* C#
 
 ## I am currently working on:
 
-* A Unity course with C#.
+* A Unity and C#.
 
 ## Contact Me!
 
