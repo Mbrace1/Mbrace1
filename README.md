@@ -1,7 +1,5 @@
 # About Me
-I am a front-end game developer apprentice at [Playtech](https://www.playtech.com/). 
-
-In the past I have also built microsites using HTML5, CSS/SCSS and JavaScript/Jquery at [Hays](https://www.hays.co.uk/).
+I am a front-end software developer, with over 2 years of experience in developing commercial websites and games.
 
 ## Tech Stack
 I have built projects with:
@@ -9,11 +7,13 @@ I have built projects with:
 * JavaScript/TypeScript
 * CSS/SCSS
 * HTML5
-* C#
+* ReactJS
+* Unity/C#
+* Godot/GdScript
 
 ## I am currently working on:
 
-* Games with Unity and C#.
+* Games with Godot.
 
 ## Contact Me!
 
