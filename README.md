@@ -1,7 +1,7 @@
 # About Me
 I am a front-end software developer, with over 2 years of experience in developing commercial websites and games.
 
-Check out my portfolio: <https://mbrace1.github.io/michael-bracey-portfolio>{:target="_blank"}
+Check out my portfolio: <https://mbrace1.github.io/michael-bracey-portfolio>
 
 ## Tech Stack
 I have built projects with:
