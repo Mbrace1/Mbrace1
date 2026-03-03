@@ -1,5 +1,5 @@
 # About Me
-I am a front-end software developer, with over 2 years of experience in developing commercial websites and games.
+I am a front-end software developer, with over 3 years of experience in developing commercial websites and games.
 
 Check out my portfolio: <https://mbrace1.github.io/michael-bracey-portfolio>
 
@@ -12,11 +12,9 @@ I have built projects with:
 * ReactJS
 * Unity/C#
 * Godot/GdScript
+* PHP
+* Drupal
 
 ## I am currently working on:
 
-* Games with Godot.
-
-## Contact Me!
-
-You can contact me at michaelbracey24@gmail.com.
+* Games with Godot and PHP and Drupal
